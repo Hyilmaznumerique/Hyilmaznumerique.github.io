@@ -1,0 +1,182 @@
+
+
+
+
+body{
+    margin: 0;
+}
+
+
+
+.header {
+    background-color:#dcdcdc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width:100vw;
+    background-size: 100%;
+    margin: 0;
+}
+h1{
+   font-family: "Roboto", sans-serif;
+  font-size:90px;
+  align-items: center;
+  justify-content: center;
+      color: #0000FF;
+
+}  
+.france{
+    font-family: "Playwrite AU TAS Guides", cursive;
+    font-size:70%;
+    color: #c300ff;
+}
+.hasan{  
+    font-family: "Playwrite AU TAS Guides", cursive;
+    font-size:70%;
+    color: #c300ff;
+
+}
+.about {
+    display: flex;
+    margin: 50px;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+  }
+
+.left {
+    
+    width: 50%;
+   
+
+  }
+
+.right {
+    align-items: center;
+    
+}
+p {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+  
+
+}
+.imgp{
+    border-radius: 30px;
+    margin: 20px;}
+.liste{
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
+
+nav{
+    display: flex;
+    width: 100%;
+    height: 0;
+}
+.menu {
+ 
+    display: inline;
+    width: 50px;
+    height: 10px;
+    margin: 0;
+    padding: 8px;
+    background-color: none;
+}
+.contact{
+    display: block;
+    color: #c300ff;
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "Playwrite AU TAS Guides", cursive;
+
+}
+.hobby{
+    display: block;
+    color: #c300ff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "Playwrite AU TAS Guides", cursive;
+
+}
+.education {
+    display: block;
+    width: 100%;
+    padding-top: 150px;
+    padding-bottom: 400px;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+
+    height:30vh;
+    align-items: center;
+    justify-content: center;
+    background-color:#dcdcdc;
+  }
+  h2{
+    font-family: "Roboto", sans-serif;
+    font-size:90px;
+    color: #0000FF;
+  }
+  .table-style{
+    display: flex;
+    
+  }
+.contactme{
+    font-family: "Roboto", sans-serif;
+    font-size:90px;
+    color: #0000FF;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+form {
+    /* On centre le formulaire */
+    margin: 0 auto;
+    width: 400px;
+    /* Le contour du formulaire */
+    padding: 1em;
+    border: 1px solid #0000FF;
+    border-radius: 1em;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+
+  }
+  .contactmoi{
+    background-color:#dcdcdc;
+ 
+  
+    height: 100vh;
+    width:100vw;
+    background-size: 100%;
+    
+    padding: none;
+  }
+
+  footer{
+    height: 30vh;
+    width:100vw;
+    background-color:white;
+
+  }
+  video{
+    width: 700px;
+    height: auto;
+  
+  }
+  .passion{
+    background-color: #dcdcdc;
+    height: 100vh;
+    width:100vw;
+    align-items: center;
+    justify-content: center;
+    
+  }
